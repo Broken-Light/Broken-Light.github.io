@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Broken-Light.github.io</id>
     <title>Broken-Light</title>
-    <updated>2021-04-16T14:12:27.170Z</updated>
+    <updated>2021-04-16T14:13:57.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Broken-Light.github.io"/>
     <link rel="self" href="https://Broken-Light.github.io/atom.xml"/>
@@ -108,7 +108,7 @@ a,&amp;a\leq 0\\
         <link href="https://Broken-Light.github.io/post/11-shi-shu/">
         </link>
         <updated>2021-04-14T10:08:00.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="">第一章 实数集与函数</a><br>
+        <content type="html"><![CDATA[<p><a href="https://broken-light.github.io/post/di-yi-zhang-shi-shu-ji-yu-han-shu/">第一章 实数集与函数</a><br>
 第二章 数列极限<br>
 第三章 函数极限<br>
 第四章 函数的连续性<br>
