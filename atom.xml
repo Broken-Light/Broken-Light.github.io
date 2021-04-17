@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Broken-Light.github.io</id>
     <title>Broken-Light</title>
-    <updated>2021-04-16T14:23:26.579Z</updated>
+    <updated>2021-04-17T01:02:48.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Broken-Light.github.io"/>
     <link rel="self" href="https://Broken-Light.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://Broken-Light.github.io/images/avatar.png</logo>
     <icon>https://Broken-Light.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Broken-Light</rights>
+    <entry>
+        <title type="html"><![CDATA[01.01 实数]]></title>
+        <id>https://Broken-Light.github.io/post/0101-shi-shu/</id>
+        <link href="https://Broken-Light.github.io/post/0101-shi-shu/">
+        </link>
+        <updated>2021-04-17T00:48:46.000Z</updated>
+        <content type="html"><![CDATA[<p>数学分析的研究对象就是定义在实数集上的函数，本节主要介绍实数的相关概念，是后续学习的基础。<br>
+在中学里我们已经学到：<br>
+<strong>有理数</strong>可用分数形式<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mi>p</mi><mi>q</mi></mfrac></mrow><annotation encoding="application/x-tex">\frac{p}{q}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.228608em;vertical-align:-0.481108em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.7475em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.03588em;">q</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">p</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.481108em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>(<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi><mo separator="true">,</mo><mi>q</mi></mrow><annotation encoding="application/x-tex">p,q</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">p</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">q</span></span></span></span>为整数，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>q</mi><mpadded width="0px"><mo></mo></mpadded><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">q\not ={0}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">q</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel"><span class="mord"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.69444em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="rlap"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="inner"><span class="mrel"></span></span><span class="fix"></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.19444em;"><span></span></span></span></span></span></span></span><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord"><span class="mord">0</span></span></span></span></span> )表示，也可用有限十进小数或无限十进循环小数来表示。<br>
+<strong>无理数</strong>用无限十进不循环小数表示。<br>
+有理数和无理数统称为<strong>实数</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一章 实数集与函数]]></title>
         <id>https://Broken-Light.github.io/post/di-yi-zhang-shi-shu-ji-yu-han-shu/</id>
